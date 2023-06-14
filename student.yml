@@ -1,0 +1,19 @@
+student:
+  - id: 1
+    name: Vasya
+    age: 20
+    gender: male
+    iq: 120
+  - courses:
+      - Math
+      - English
+      - Physics
+    address:
+      street: "123 Main St"
+      city: Kyiv
+      country: Ukraine
+  - contact:
+      email: vasya@example.com
+      phone: "+38 123-456-7890"
+  - is_active: true
+    registered_at: "2023-01-15"

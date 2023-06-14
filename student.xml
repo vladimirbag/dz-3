@@ -1,0 +1,31 @@
+<student>
+  <item>
+    <id>1</id>
+    <name>Vasya</name>
+    <age>20</age>
+    <gender>male</gender>
+    <iq>120</iq>
+  </item>
+  <item>
+    <courses>
+      <item>Math</item>
+      <item>English</item>
+      <item>Physics</item>
+    </courses>
+    <address>
+      <street>123 Main St</street>
+      <city>Kyiv</city>
+      <country>Ukraine</country>
+    </address>
+  </item>
+  <item>
+    <contact>
+      <email>vasya@example.com</email>
+      <phone>+38 123-456-7890</phone>
+    </contact>
+  </item>
+  <item>
+    <is_active>true</is_active>
+    <registered_at>2023-01-15</registered_at>
+  </item>
+</student>
